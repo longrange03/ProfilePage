@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProfilePage</string>
+    <string name="android_profile_ui_design">Android Profile UI Design</string>
+    <string name="android_profile_xml_ui_design">Android Profile XMl UI Design</string>
+    <string name="android_free_tutorials_and_example">Android free tutorials and example</string>
+    <string name="viral_android">Viral Android</string>
+    <string name="green_monster">green_monster</string>
+    <string name="The_Future">The Future</string>
+    <string name="Live_Love_Laugh">Live Love Laugh</string>
+</resources>
